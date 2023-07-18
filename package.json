@@ -1,0 +1,26 @@
+{
+  "name": "first-eleapp",
+  "version": "1.0.0",
+  "description": "my first electron app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackylong1/first-eletronic-app.git"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "pyke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackylong1/first-eletronic-app/issues"
+  },
+  "homepage": "https://github.com/jackylong1/first-eletronic-app#readme",
+  "devDependencies": {
+    "electron": "^25.3.0"
+  }
+}
